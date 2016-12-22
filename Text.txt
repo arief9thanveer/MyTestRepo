@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Doc Edited By U2 New Devlop
+=======
+Doc Edited By U1new Devlop
+>>>>>>> a71e8c06913f4b8fb92d108ab6b12428e4114cb6
